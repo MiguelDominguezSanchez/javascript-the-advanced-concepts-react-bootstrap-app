@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# Javascript The Advanced Concepts
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+include relevant points tackled. MDN Docs Links
 
-## Available Scripts
+## lorem ipsum
 
-In the project directory, you can run:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-### `yarn start`
+### Pellentesque ut leo quis ex varius egestas.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt luctus odio, eget finibus ante egestas sit amet. Pellentesque dictum tempor suscipit. Praesent ex sem, vehicula at sapien eget, molestie congue tellus. Curabitur nec sagittis enim. Donec at ex in urna ultrices efficitur. Proin et ex vitae sem vestibulum aliquam vel id nisi. Nam condimentum nisi in tellus lobortis congue. Aliquam erat volutpat. 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Nullam varius vehicula condimentum.
 
-### `yarn test`
+Donec id sem bibendum, euismod risus ut, lacinia odio. Vivamus sed nisl eget mauris sodales porttitor id id magna. Fusce vitae est arcu. Donec eget bibendum nibh. Etiam iaculis nunc ac gravida interdum. Quisque quis ex tempus, fringilla nisi nec, fermentum eros. 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Quisque dui ante,
 
-### `yarn build`
+Nulla mollis felis eu ligula faucibus pretium. Duis lorem diam, tempus eu nibh vitae, condimentum efficitur elit. Maecenas mollis risus nisi. In hac habitasse platea dictumst. Quisque aliquam fringilla ante id egestas. Integer venenatis aliquet massa. Curabitur cursus odio ipsum. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Proin fringilla nunc nec elit lacinia aliquet. Nullam dignissim leo nec est pretium semper. Nam eleifend, nibh at cursus faucibus, nulla augue blandit tellus, at pharetra ex purus ac nunc. Aliquam erat volutpat. Aliquam erat volutpat. Morbi ut nunc nunc. 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
+### yarn eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Sed vitae erat volutpat, elementum magna et, interdum mauris. Quisque dui ante, fringilla id diam ut, commodo blandit quam. Curabitur gravida mauris ut risus cursus, nec tristique eros sodales. Praesent cursus eleifend commodo. Mauris malesuada porta tempor. 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Praesent tempor nulla at mattis vehicula. Nullam leo risus, vehicula et odio ut, fringilla placerat orci. 
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Morbi ac tortor nunc. Curabitur ut turpis in eros auctor ullamcorper. Maecenas tristique purus lectus, vel tristique dolor malesuada quis. Fusce lobortis diam urna, porta porta urna bibendum eu. 
 
-## Learn More
+## Suspendisse in tempor elit, a sodales justo. 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam blandit feugiat tellus. Maecenas nisl tortor, auctor vitae sodales at, aliquet a augue. Aliquam hendrerit risus id posuere lacinia. 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Proin dictum faucibus nulla, at ultricies augue auctor sit amet. Vivamus volutpat justo lorem, at pulvinar tortor sagittis vitae. Aenean quam dui, vulputate at placerat id, convallis ut leo. Donec elit metus, sollicitudin at odio sit amet, suscipit convallis sapien. Morbi quis posuere enim, id euismod neque. Suspendisse et erat quis justo porttitor varius quis quis tortor. Suspendisse in tempor elit, a sodales justo. 
+
+Curabitur ultrices cursus nulla, sed vehicula ligula. Donec ac mauris vel nulla malesuada pulvinar maximus at ante. 
 
 ### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt luctus odio, eget finibus ante egestas sit amet. 
 
-### Analyzing the Bundle Size
+Pellentesque dictum tempor suscipit. Praesent ex sem, vehicula at sapien eget, molestie congue tellus. 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Maecenas nec tortor pharetra, euismod orci in, condimentum odio. 
 
-### Making a Progressive Web App
+Curabitur nec sagittis enim. Donec at ex in urna ultrices efficitur. Proin et ex vitae sem vestibulum aliquam vel id nisi. Nam condimentum nisi in tellus lobortis congue. Aliquam erat volutpat. Pellentesque ut leo quis ex varius egestas. 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Nulla mollis felis eu ligula faucibus pretium. 
 
-### Advanced Configuration
+Donec id sem bibendum, euismod risus ut, lacinia odio. Vivamus sed nisl eget mauris sodales porttitor id id magna. 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Duis lorem diam, tempus eu nibh vitae,
 
-### Deployment
+Fusce vitae est arcu. Donec eget bibendum nibh. Etiam iaculis nunc ac gravida interdum. 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### condimentum efficitur elit. 
 
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Quisque quis ex tempus, fringilla nisi nec, fermentum eros. Nullam varius vehicula condimentum. Cras consectetur velit sed odio eleifend, nec cursus nunc dictum. Pellentesque ornare imperdiet massa, sed rutrum arcu varius ac. Pellentesque turpis libero, aliquam a elit eget, suscipit congue tortor. Nullam vitae magna tincidunt erat fringilla cursus. 
