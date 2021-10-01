@@ -16,14 +16,18 @@ const AccordionPoints = () => {
 								</Accordion.Header>
 								<Accordion.Body>
 									<p>
-										What does advanced JavaScript mean? Everyone has a different
-										idea about what advanced means. (img – Who is this course
-										for?). In order to make sure that the course can be enjoyed
-										by every body. I have structured the course in a unique way,
-										so that, although everyone will start at different levels of
-										knowledge, you will all end up att the same place in the
-										end. Lets have a look (img – Course Outline) this is our
-										course outline(attached imgs Diagram).
+										<b>What does advanced JavaScript mean?</b>
+										<br />
+										Everyone has a different idea about what <em>
+											advanced
+										</em>{' '}
+										means. <i>Who is this course for?</i> . In order to make
+										sure that the course can be enjoyed by every body. I have
+										structured the course in a unique way, so that, although
+										everyone will start at different levels of knowledge, you
+										will all end up at the same place in the end. Lets have a
+										look. <small>Course Outline</small> this is our course
+										outline(attached imgs Diagram).
 									</p>
 									<p>
 										The course stars off with the foundations. To make sure that
